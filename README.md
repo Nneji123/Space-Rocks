@@ -10,5 +10,4 @@ This is a simple game made using pygame libraries in which the uses controls a s
 
 
 
-https://user-images.githubusercontent.com/101701760/162282568-0326d54b-2ce9-4064-801d-a89b743be3c1.mp4
-
+![spacerocks](https://user-images.githubusercontent.com/101701760/162286555-db2ab779-dd99-4a9d-ba0f-71bbf079a03f.gif)
